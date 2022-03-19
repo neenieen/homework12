@@ -263,7 +263,7 @@ class SecondRoute extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: Text('Mhee Pooh')),
+      appBar: AppBar(title: Text('Pooh')),
       backgroundColor: Colors.amberAccent.withOpacity(0.5),
       body: SizedBox.expand(
         child: Container(
